@@ -27,7 +27,7 @@ body {
 }
 
 .black {
-	background-color: black;
+	background-color: ;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
@@ -44,7 +44,7 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #ff007f;
+	background-color: #ff0000;
 	outline: none;
 	color: black;
 	text-decoration: none;
